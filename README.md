@@ -1,6 +1,6 @@
 # Image-to-ascii Program
 
-*️⃣Welcome to the Image-to-ascii, this turns jpg images into ascii characters!
+📸Welcome to the Image-to-ascii, this turns jpg images into ascii characters!
 
 ## Features
 
