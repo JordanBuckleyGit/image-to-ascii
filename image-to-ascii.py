@@ -40,4 +40,5 @@ def asciiConvert(image_path, image_type, save_path, scale_factor):
         f.write(ascii_art)
 
 if __name__ == '__main__':
-    asciiConvert("jakub.jpg", "jpg", "jakub.txt", "3")
+    asciiConvert("random.jpg", "jpg", "random.txt", "3")
+# Change random.jpg ^, to the name of your own image
