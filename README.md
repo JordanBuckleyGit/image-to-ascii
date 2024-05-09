@@ -1,12 +1,12 @@
 # Image-to-ascii Program
 
-Welcome to the Image-to-ascii, this turns jpg images into ascii characters!
+*️⃣Welcome to the Image-to-ascii, this turns jpg images into ascii characters!
 
 ## Features
 
 - **Main**: Within this program it gets an image you have saved as a jpg and converts it into a txt. 
 
-## Requirements
+## 🔴Requirements
 
 - Python 3.9 and above
 - Install Pillow in cmd prompt. Command: pip install Pillow
