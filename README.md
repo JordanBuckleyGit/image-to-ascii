@@ -8,7 +8,7 @@
 
 ## 🔴Requirements
 
-- Python 3.9 and above
+- Python 3.10 and above
 - Install Pillow in cmd prompt. Command: pip install Pillow
 - Should have black background for notepad
 - Ensure images are saved as jpg's
